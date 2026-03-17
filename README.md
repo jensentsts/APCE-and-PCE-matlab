@@ -1,5 +1,7 @@
 # PCE 与 aPCE 工具箱 (MATLAB)
-[English](./)
+
+[English readme](./)
+
 本项目提供了**多项式混沌展开 (Polynomial Chaos Expansion, PCE)** 与**任意多项式混沌展开 (arbitrary Polynomial Chaos Expansion, aPCE)** 的 MATLAB 实现。  
 通过给定的输入‑输出样本，可以自动或手动拟合 PCE / aPCE 模型，并用于预测、误差分析等任务。
 
