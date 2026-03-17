@@ -1,4 +1,3 @@
-wtf;
 %% PCE vs aPCE 拟合对比测试脚本
 clear; clc; close all;
 
